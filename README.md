@@ -65,3 +65,5 @@ else:
 if time_remaining <= 0:
     st.session_state.last_refresh = time.time()
     st.experimental_rerun()
+
+</details>
